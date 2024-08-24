@@ -2,6 +2,13 @@ Device: Google Pixel 6a (bluejay)
 Device maintainer: IczYn
 
 ====================
+     24-08-2024
+====================
+
+* Change launcher to stock
+* Include 5.15 kernel
+
+====================
      23-07-2024
 ====================
 
